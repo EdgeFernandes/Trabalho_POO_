@@ -1,0 +1,11 @@
+SobreCarga - é um conceito do polimorfismo que consiste basicamente em criar variações de um mesmo método,
+ou seja, a criação de dois ou mais métodos com nomes totalmente iguais em uma classe.A Sobrecarga permite que
+utilizemos o mesmo nome em mais de um método contanto que suas listas de argumentos sejam diferentes para que 
+seja feita a separação dos mesmos.
+
+
+Sobrescrita -está diretamente relacionada à orientação a objetos, mais especificamente com a herança.
+Com a sobrescrita, conseguimos especializar os métodos herdados das superclasses, alterando o seu comportamento nas 
+subclasses por um mais específico.
+A sobrescrita de métodos consiste basicamente em criar um novo método na classe filha contendo a mesma assinatura
+e mesmo tipo de retorno do método sobrescrito.
